@@ -1,2 +1,2 @@
 # CODSOFT
-Codsoft Intership Movie Genre Classification
+Codsoft Internship Movie Genre Classification
